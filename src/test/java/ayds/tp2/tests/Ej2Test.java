@@ -6,9 +6,9 @@ import java.util.*;
 
 import org.junit.Test;
 
-import ayds.tp2.ej3.*;
+import ayds.tp2.ej2.*;
 
-public class Ej3Test {
+public class Ej2Test {
 
 	@Test
 	public void test() {

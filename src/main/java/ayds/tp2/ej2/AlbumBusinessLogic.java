@@ -1,4 +1,4 @@
-package ayds.tp2.ej3;
+package ayds.tp2.ej2;
 
 public class AlbumBusinessLogic {
 
